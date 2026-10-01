@@ -1,0 +1,198 @@
+    .chap {
+        float: left;
+        margin-left: 60px;
+    }
+
+    .ong {
+        float: right;
+        margin-right: 100px;
+    }
+
+    .a {
+        display: inline-block;
+        margin: 20px;
+        margin: 20px;
+    }
+
+    .telifon {
+        float: left;
+
+    }
+
+    .bolim1_ong {
+        float: right;
+        margin-right: 200px;
+        margin-top: 100px;
+        color: #ffff;
+    }
+
+    .button {
+        text-align: center;
+        padding: 10px;
+        background-color: rgb(35, 0, 133);
+        color: #4781ff;
+        border-radius: 50px;
+
+    }
+
+    .button:hover {
+        background-color: #4781ff;
+        color: #ffff;
+    }
+
+    .bolim1 {
+        background-color: #4781ff;
+        padding: 50px;
+    }
+
+    .bolim2_chap {
+        float: left;
+        margin-left: 30px;
+    }
+
+    .bolim2_ong {
+        margin-right: 100px;
+    }
+
+    .ikkinchi_bolim {
+        background-color: rgb(10, 10, 10);
+        padding: 50px;
+        color: aliceblue;
+    }
+
+    .uchinchi_bolim {
+        text-align: center;
+        padding: 100px;
+        color: aliceblue;
+        background-color: rgb(30, 30, 177);
+
+    }
+
+    .BUTTON1 {
+        padding: 10px;
+        background-color: black;
+        color: #ffff;
+        border-radius: 50px;
+    }
+
+    .BUTTON1:hover {
+        background-color: rgb(30, 30, 177);
+    }
+
+    .tepa_qisim::after,
+    .bolim1::after,
+    .ikkinchi_bolim::after,
+    .uchinchi_bolim::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+
+    .tortinchi_bolim {
+        background-color: black;
+        color: #ffff;
+        text-align: center;
+    }
+
+    .markaz_matn {
+        text-align: center;
+    }
+
+    .markaz_matn h2 {
+        font-size: 32px;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .markaz_matn h3 {
+        color: #555;
+    }
+
+    .markaz_matn p {
+        color: #777;
+        font-size: 16px;
+        margin-bottom: 50px;
+    }
+
+    .beshinchi_bolim {
+        padding: 80px 0;
+        background-color: rgb(0, 22, 121);
+        height: 400px;
+        color: #fff;
+    }
+
+    .narx_quti {
+        padding-top: 40px;
+    }
+
+    .narx_karta {
+        float: left;
+        width: 28%;
+        margin: 0 2%;
+        background-color: #f1f1f1;
+        text-align: center;
+        padding: 40px 0;
+        border-radius: 10px;
+    }
+
+    .narx_karta h3 {
+        font-size: 40px;
+        color: #5868e8;
+        margin: 0;
+    }
+
+    .narx_karta h4 {
+        font-size: 24px;
+        margin: 10px 0 20px 0;
+    }
+
+    .narx_karta p {
+        color: #666;
+    }
+
+    .button2 {
+        background-color: blue;
+        padding: 5px;
+        border-radius: 50px;
+        color: #fff;
+    }
+
+    .button2:hover {
+        background-color: #fff;
+        color: blue;
+    }
+
+    .oltinchi_bolim {
+        background-color: rgb(0, 0, 255);
+        padding: 100px;
+    }
+
+    .email {
+        display: inline;
+        margin-left: 200px;
+        float: left;
+        margin-top: 20px;
+
+    }
+
+    .button3 {
+        margin-left: 100px;
+        margin-top: 20px;
+        background-color: #1430ff;
+        color: #ffff;
+        border-radius: 50px;
+        padding: 5px;
+    }
+
+    .button3:hover {
+        background-color: #ffff;
+        color: #001eff;
+    }
+
+    .footer {
+        background-color: #222;
+        color: #888;
+        text-align: center;
+        padding: 20px 0;
+        font-size: 14px;
+    }
